@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Travel Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Welcome to the Travel Website repository! This project aims to create a dynamic and user-friendly website for travel enthusiasts, providing a platform to explore and plan their dream destinations.
 
-## Available Scripts
+## Features
+* Destination Search: Users can search for various travel destinations and get detailed information about each location, including popular attractions, weather conditions, and user reviews.
 
-In the project directory, you can run:
+* Trip Planning: Users can create personalized trip itineraries by selecting destinations, adding activities, and managing their travel schedule. The website provides a user-friendly interface for managing and organizing travel plans efficiently.
 
-### `npm start`
+* Responsive Design: The website is built using React.js, ensuring a responsive and mobile-friendly experience for users across different devices and screen sizes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
+React.js
+HTML
+CSS
+JavaScript
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Screanshot
+This is the overview of website.
 
-### `npm test`
+![10](https://user-images.githubusercontent.com/101728039/235371567-6c488e43-2a13-4797-ada0-be9095d346af.JPG)
+![11](https://user-images.githubusercontent.com/101728039/235371572-803c89d4-2729-4ca5-a938-84569fa9e82c.JPG)
+![12](https://user-images.githubusercontent.com/101728039/235371575-7f444256-53fd-49a0-b5a5-262794ee7c99.JPG)
+![13](https://user-images.githubusercontent.com/101728039/235371581-965b2d0e-45e4-492d-bd24-7b580ecd3592.JPG)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Getting Started
+##### To get a local copy of this project up and running, follow these steps:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository to your local machine using the following command:
+git clone https://github.com/2731999/Travel
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Navigate to the project directory:
+cd travel-website
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Install the required dependencies using a package manager such as npm or yarn:
+npm install
 
-### `npm run eject`
+4. Start the development server:
+npm start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5. Open your browser and visit http://localhost:3000 to see the Travel Website.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
