@@ -41,5 +41,22 @@ npm start
 
 5. Open your browser and visit http://localhost:3000 to see the Travel Website.
 
+## Installation
 
+1. Clone the repository:
+
+- git clone https://github.com/2731999/TNT.git
+- cd TNT
+- npm install
+- npm start
+
+
+## Contributing
+We welcome contributions from the community! To contribute to this project, please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make your changes and commit them with descriptive commit messages.
+Push your changes to your forked repository.
+Submit a pull request to the main branch of the original repository.
 
