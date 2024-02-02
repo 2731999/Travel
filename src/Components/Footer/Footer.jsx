@@ -135,8 +135,8 @@ const Footer = () => {
             </div>
           </div>
           <div className="footerDiv flex">
-            <small>BEST TRAVEL WEBSITE THEME</small>
-            <small>COPYRIGHTS RESERVED - ISRATECH 2022</small>
+            <small>REACT TRAVEL WEBSITE </small>
+            <small>ABHISHEK KUMAR - NOVEMBER 2022</small>
           </div>
         </div>
       </div>
